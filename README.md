@@ -4,8 +4,6 @@
 
 Thành viên:
 * [1 ] **1312162** Phạm Văn Hà (HaPham1107)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
-
 URL: **Link github page**
 
 ## Yêu cầu
@@ -13,7 +11,7 @@ URL: **Link github page**
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
+* [*] Có sử dụng GIT.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.

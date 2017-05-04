@@ -1,0 +1,17 @@
+<h1>Publishers</h1>
+<table class="table table-striped">
+	<thead>
+   <tr>
+     <th>Publisher</th>
+     <th>Action</th>
+   </tr> 
+  </thead>
+  <tbody>
+    <% @publishers.each do |publisher| %>
+      <tr>
+        <td><%= publisher.name %></td>
+        <td><%= link_to "Edit", edit_publisher_path(publisher) %> | <%= link_to "Delete", publisher_path(publisher), method: :delete, data: {confirm: "Are you sure?"}%></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
