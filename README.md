@@ -1,9 +1,9 @@
-# Bài tập-CCDNCHTTT - *Bookstore*
+﻿# Bài tập-CCDNCHTTT - *Bookstore*
 
 **Bookstore** là một repository trong bài tập thực hành của lớp.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
+* [1 ] **1312162** Phạm Văn Hà (HaPham1107)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
 URL: **Link github page**
