@@ -41,8 +41,8 @@ Yêu cầu **không bắt buộc**
 * [ ] Quản lý người mua và người bán follow, gửi tin nhắn với nhau và lưu trong CSDL riêng bằng Neo4j
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [ ] Login - Logout
-* [ ] Post
+* [x] Login - Logout
+* [x] Post Sách
 
 ## Demo
 
