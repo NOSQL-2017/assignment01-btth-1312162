@@ -27,7 +27,7 @@ Công nghệ sử dụng (tự động thêm nếu phần mình dùng không đ�
 
 Yêu cầu **bắt buộc**
 * [x] Triển khai ứng dụng sử dụng docker compose và Dockerfile
-* [x] Người dùng được phép đăng nhập để tiến hành mua sách
+* [ ] Người dùng được phép đăng nhập để tiến hành mua sách
 * [x] Người bán được phép đăng nhập vào hệ thống để quản lý sách mình muốn bán
 * [ ] Nhân viên hệ thống được phép đăng nhập để quản lý danh mục sản phẩm
 * [ ] Người dùng được phép xem lại các đơn hàng đã mua và trạng thái đơn hàng
@@ -41,8 +41,8 @@ Yêu cầu **không bắt buộc**
 * [ ] Quản lý người mua và người bán follow, gửi tin nhắn với nhau và lưu trong CSDL riêng bằng Neo4j
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [x] Login - Logout
-* [x] Post Sách
+* [ ] Login - Logout
+* [ ] Post Sách bán và quản lý
 
 ## Demo
 
