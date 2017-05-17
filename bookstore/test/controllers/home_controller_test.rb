@@ -16,9 +16,4 @@ class HomeControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should get faq" do
-    get home_faq_url
-    assert_response :success
-  end
-
 end

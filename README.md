@@ -1,7 +1,7 @@
 ﻿# Bài tập-CCDNCHTTT - *Bookstore*
 
 **Bookstore** là một repository trong bài tập thực hành của lớp.
-
+**
 Thành viên:
 * [1 ] **1312162** Phạm Văn Hà (HaPham1107)
 URL: **https://github.com/HaPham1107**
@@ -13,7 +13,7 @@ Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm v
 Yêu cầu **GIT**
 * [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Feature Branch Workflow.(Áp dụng cho branch giai đoạn 2)
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Công nghệ sử dụng (tự động thêm nếu phần mình dùng không được liệt kê):
@@ -26,7 +26,7 @@ Công nghệ sử dụng (tự động thêm nếu phần mình dùng không đ�
 * [ ] Neo4j
 
 Yêu cầu **bắt buộc**
-* [ ] Triển khai ứng dụng sử dụng docker compose và Dockerfile
+* [x] Triển khai ứng dụng sử dụng docker compose và Dockerfile
 * [x] Người dùng được phép đăng nhập để tiến hành mua sách
 * [x] Người bán được phép đăng nhập vào hệ thống để quản lý sách mình muốn bán
 * [ ] Nhân viên hệ thống được phép đăng nhập để quản lý danh mục sản phẩm
